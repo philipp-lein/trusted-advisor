@@ -43,3 +43,5 @@ Eine Roadmap dient als **kontinuierliche Leitlinie** und als **Quelle der Wahrhe
 - Wie ist die eigene Roadmap gestaltet?  
 - Sind genügend **Energiegeber** integriert?  
 - Unterstützt die Roadmap den Kunden optimal entlang des gesamten Prozesses?  
+
+
